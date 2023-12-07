@@ -1,0 +1,8 @@
+C:\Users\james.dickson\source\packages\ui-path-fuzzy\UiPath.FuzzyWuzzy.Activities.Design.dll
+C:\Users\james.dickson\source\packages\ui-path-fuzzy\UiPath.FuzzyWuzzy.Activities.Design.pdb
+C:\Users\james.dickson\source\packages\ui-path-fuzzy\FuzzySharp.dll
+C:\Users\james.dickson\source\packages\ui-path-fuzzy\UiPath.FuzzyWuzzy.Activities.dll
+C:\Users\james.dickson\source\packages\ui-path-fuzzy\UiPath.FuzzyWuzzy.Activities.pdb
+C:\Users\james.dickson\source\packages\ui-path-fuzzy\UiPath.FuzzyWuzzy.Activities.xml
+C:\Users\james.dickson\source\packages\ui-path-fuzzy\UiPath.FuzzyWuzzy.Activities.Design.xml
+C:\Users\james.dickson\source\packages\ui-path-fuzzy\UiPath.FuzzyWuzzy.Activities.Design.deps.json

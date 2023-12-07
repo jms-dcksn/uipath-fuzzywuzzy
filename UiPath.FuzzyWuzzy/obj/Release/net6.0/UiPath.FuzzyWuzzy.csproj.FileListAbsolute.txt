@@ -1,0 +1,14 @@
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\bin\Release\net6.0\UiPath.FuzzyWuzzy.deps.json
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\bin\Release\net6.0\UiPath.FuzzyWuzzy.dll
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\bin\Release\net6.0\UiPath.FuzzyWuzzy.pdb
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\bin\Release\net6.0\UiPath.FuzzyWuzzy.xml
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\obj\Release\net6.0\UiPath.FuzzyWuzzy.Properties.Resources.resources
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\obj\Release\net6.0\UiPath.FuzzyWuzzy.csproj.GenerateResource.cache
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\obj\Release\net6.0\UiPath.FuzzyWuzzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\obj\Release\net6.0\UiPath.FuzzyWuzzy.AssemblyInfoInputs.cache
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\obj\Release\net6.0\UiPath.FuzzyWuzzy.AssemblyInfo.cs
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\obj\Release\net6.0\UiPath.FuzzyWuzzy.csproj.CoreCompileInputs.cache
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\obj\Release\net6.0\UiPath.FuzzyWuzzy.dll
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\obj\Release\net6.0\refint\UiPath.FuzzyWuzzy.dll
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\obj\Release\net6.0\UiPath.FuzzyWuzzy.pdb
+C:\Users\james.dickson\source\repos\UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy\obj\Release\net6.0\ref\UiPath.FuzzyWuzzy.dll

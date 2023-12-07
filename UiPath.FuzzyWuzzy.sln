@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UiPath.FuzzyWuzzy", "UiPath.FuzzyWuzzy", "{C1CEEB89-E1B8-4D36-AA3A-0B9E802E4813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiPath.FuzzyWuzzy", "UiPath.FuzzyWuzzy\UiPath.FuzzyWuzzy.csproj", "{69F12556-CEFF-4D49-9A29-4B8ABB701F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiPath.FuzzyWuzzy.Activities", "UiPath.FuzzyWuzzy.Activities\UiPath.FuzzyWuzzy.Activities.csproj", "{79707D10-DDDF-4E15-AEA0-4337D0ABE197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiPath.FuzzyWuzzy.Activities.Design", "UiPath.FuzzyWuzzy.Activities.Design\UiPath.FuzzyWuzzy.Activities.Design.csproj", "{760F78F4-EBB8-4A65-B669-9EBD15248256}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{42536A6C-1B5D-491E-B8E1-2286FD7C9CA5}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities", "..\Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.shproj", "{4546856D-EA50-45C6-9419-EEEACB5A80AA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities.Design", "..\Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.shproj", "{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F12556-CEFF-4D49-9A29-4B8ABB701F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F12556-CEFF-4D49-9A29-4B8ABB701F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F12556-CEFF-4D49-9A29-4B8ABB701F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F12556-CEFF-4D49-9A29-4B8ABB701F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79707D10-DDDF-4E15-AEA0-4337D0ABE197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79707D10-DDDF-4E15-AEA0-4337D0ABE197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79707D10-DDDF-4E15-AEA0-4337D0ABE197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79707D10-DDDF-4E15-AEA0-4337D0ABE197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760F78F4-EBB8-4A65-B669-9EBD15248256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760F78F4-EBB8-4A65-B669-9EBD15248256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760F78F4-EBB8-4A65-B669-9EBD15248256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760F78F4-EBB8-4A65-B669-9EBD15248256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69F12556-CEFF-4D49-9A29-4B8ABB701F49} = {C1CEEB89-E1B8-4D36-AA3A-0B9E802E4813}
+		{79707D10-DDDF-4E15-AEA0-4337D0ABE197} = {C1CEEB89-E1B8-4D36-AA3A-0B9E802E4813}
+		{760F78F4-EBB8-4A65-B669-9EBD15248256} = {C1CEEB89-E1B8-4D36-AA3A-0B9E802E4813}
+		{4546856D-EA50-45C6-9419-EEEACB5A80AA} = {42536A6C-1B5D-491E-B8E1-2286FD7C9CA5}
+		{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25} = {42536A6C-1B5D-491E-B8E1-2286FD7C9CA5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {791CD6B1-6106-4A4A-9807-EDE977D3AAEC}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{4546856d-ea50-45c6-9419-eeeacb5a80aa}*SharedItemsImports = 13
+		..\Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{760f78f4-ebb8-4a65-b669-9ebd15248256}*SharedItemsImports = 5
+		..\Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{79707d10-dddf-4e15-aea0-4337d0abe197}*SharedItemsImports = 5
+		..\Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{df9c43f0-add3-4fbf-995e-84b92f9cbf25}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
